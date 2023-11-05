@@ -1,0 +1,25 @@
+Pending Works
+
+- Analysis based on attendance
+    - Marks of students based on attendance percentage
+    - Subjects with less attendance got average low marks or not
+    - Think of more ideas
+
+
+- Range
+    - A function so that we can change the range of marks ans attendance and based on that see the analysis record
+
+
+
+- Marks Predictor based on the marks of previous semester marks (Keep it on hold as we don't have bulk of data)
+
+
+
+- TA Marks Calculator
+
+
+
+- Individual Performance based on CT1, CT2 and University marks
+    - Different parameters based on attendance, Marks, CTs Marks
+
+
